@@ -1,2 +1,0 @@
-requests:
-we can use pythons urllib() built in library instead of request third party library.
